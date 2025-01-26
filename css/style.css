@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&display=swap');
 
+:root {
+        --tg-theme-text-color: #00ffff;
+        --tg-theme-bg-color: #00ffff;
+        --tg-theme-button-color: #00ffff;
+        --tg-theme-button-text-color: #00ffff;
+        }
+
     * {
         margin: 0;
         padding: 0;
