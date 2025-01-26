@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&display=swap');
 
-:root {
+section {
         --tg-theme-text-color: red;
         --tg-theme-bg-color: white;
         --tg-theme-button-color: black;
