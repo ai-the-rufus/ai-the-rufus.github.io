@@ -2,9 +2,9 @@
 
 :root {
         --tg-theme-text-color: red;
-        --tg-theme-bg-color: red;
-        --tg-theme-button-color: red;
-        --tg-theme-button-text-color: red;
+        --tg-theme-bg-color: white;
+        --tg-theme-button-color: black;
+        --tg-theme-button-text-color: white;
         }
 
     * {
